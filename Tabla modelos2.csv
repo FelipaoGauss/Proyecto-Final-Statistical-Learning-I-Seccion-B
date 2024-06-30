@@ -1,0 +1,67 @@
+Descripción Modelo,Calidad de Predicción
+Árboles de Decisión General Hyper 2,1.0
+Gradient Boosting Hyper 5,1.0
+Árboles de Decisión General Hyper 1,1.0
+daBoost Hyper 3,1.0
+Árboles de Decisión General Hyper 3,1.0
+Árboles de Decisión General Hyper 4,1.0
+Random Forest General,1.0
+Random Forest General Hyper 1,1.0
+Random Forest General Hyper 2,1.0
+Random Forest General Hyper 3,1.0
+Random Forest General Hyper 4,1.0
+Random Forest General Hyper 5,1.0
+Gradient Boosting Hyper 4,1.0
+Gradient Boosting Hyper 3,1.0
+Gradient Boosting Hyper 2,1.0
+Gradient Boosting Hyper 1,1.0
+Gradient Boosting General,1.0
+DaBoost General,1.0
+daBoost Hyper 1,1.0
+Árboles de Decisión General,1.0
+daBoost Hyper 2,1.0
+Regresión Logística Hyper 4,1.0
+XGBoost Hyper 5,0.9986301369863013
+LGBM Hyper 4,0.9986301369863013
+LGBM Hyper 3,0.9986301369863013
+LGBM Hyper 2,0.9986301369863013
+LGBM Hyper 1,0.9986301369863013
+LGBM General,0.9986301369863013
+LGBM Hyper 5,0.9986301369863013
+XGBoost Hyper 2,0.9986301369863013
+XGBoost Hyper 3,0.9972602739726028
+XGBoost Hyper 1,0.9972602739726028
+XGBoost Hyper 4,0.9972602739726028
+XGBoost General,0.9972602739726028
+Regresión Logística Hyper 3,0.9904109589041096
+Árboles de Decisión General Hyper 5,0.9876712328767123
+Análisis de discriminante cuadrático,0.9643835616438357
+Análisis de discriminante cuadrático Hyper 1,0.9643835616438357
+Análisis de discriminante cuadrático Hyper 2,0.9643835616438357
+Análisis de discriminante cuadrático Hyper 3,0.9643835616438357
+Naive Bayes Hyper 2,0.9273972602739726
+Análisis de discriminante cuadrático Hyper 4,0.9
+Naive Bayes Hyper 1,0.87
+Regresión Logística Hyper 5,0.8657534246575342
+Regresión Logística General,0.8657534246575342
+Regresión Logística Hyper 2,0.8657534246575342
+Regresión Logística Hyper 1,0.8657534246575342
+Naive Bayes General,0.85
+Análisis de discriminante lineal Hyper 2,0.7972602739726027
+Análisis de discriminante lineal Hyper 4,0.7972602739726027
+LDA General,0.7972602739726027
+LDA Hyper 2,0.7972602739726027
+LDA Hyper 3,0.7972602739726027
+LDA Hyper 4,0.7972602739726027
+LDA Hyper 5,0.7972602739726027
+Análisis de discriminante lineal General,0.7972602739726027
+Análisis de discriminante lineal Hyper 2,0.7972602739726027
+Análisis de discriminante lineal Hyper 3,0.7972602739726027
+Análisis de discriminante lineal Hyper 1,0.7958904109589041
+LDA Hyper 1,0.7958904109589041
+SVM Hyper 1,0.673972602739726
+SVM Hyper 2,0.6424657534246575
+SVM Hyper 3,0.6424657534246575
+SVM General,0.6424657534246575
+SVM Hyper 4,0.6424657534246575
+SVM Hyper 5,0.6424657534246575
